@@ -1,0 +1,1 @@
+# inkscape-1.2-extension-hello-world
