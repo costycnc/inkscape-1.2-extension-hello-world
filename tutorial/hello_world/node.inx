@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>node</name>
+  <id>org.inkscape.tutorial.pathq</id>
+  
+  <effect>
+    <effects-menu>
+      <submenu name="helloworld"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command location="inx" interpreter="python">node.py</command>
+  </script>
+</inkscape-extension>
